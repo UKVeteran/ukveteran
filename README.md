@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Johar. 
 
+|joharmashfaque.com | Writer | Associate Editor | RSS Fellow |1000+ Kagglebooks | 280+ MOOC Certifications | KingsMaker Guild | Imperial 1851 Circle | Maths of the Day |
+
 I completed my PhD in String Theory at the University of Liverpool in 2017. I have worked on various aspects of free-fermionic heterotic string formulation from analyzing the phenomenological properties of the string-derived models to more formal mathematical results.
 
 ![](https://github-readme-stats.vercel.app/api?username=ukveteran&show_icons=true&theme=radical)
