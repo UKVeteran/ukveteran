@@ -2,7 +2,7 @@
 
 joharmashfaque.com | Writer | Associate Editor | RSS Fellow |1000+ Kagglebooks | 280+ MOOC Certifications | KingsMaker Guild | Imperial 1851 Circle | Maths of the Day
 
-⚡ I love math, data science, and books
+⚡ I love math, data science and books
 
 Connect with me on: <br>
 🏢 <a href="https://www.linkedin.com/in/johar-m-ashfaque-phd-amima-minstp-a924a469/">LinkedIn</a>
