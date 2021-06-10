@@ -6,7 +6,9 @@ joharmashfaque.com | Writer | Associate Editor | RSS Fellow |1000+ Kagglebooks |
 
 Connect with me on: <br>
 🏢 <a href="https://www.linkedin.com/in/johar-m-ashfaque-phd-amima-minstp-a924a469/">LinkedIn</a> <br>
-🏢 <a href="https://twitter.com/jau1990/">Twitter</a>
+🏢 <a href="https://twitter.com/jau1990/">Twitter</a><br>
+🏢 <a href="https://joharmashfaque.com/">My Blog</a><br>
+
 
 
 
