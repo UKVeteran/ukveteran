@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Johar. 
 
-joharmashfaque.com | Writer | Associate Editor | RSS Fellow |1000+ Kagglebooks | 290+ MOOC Certifications | KingsMaker Guild | Imperial 1851 Circle | Maths of the Day
+joharmashfaque.com | Writer | Associate Editor | RSS Fellow |1000+ Kagglebooks | 295+ MOOC Certifications | KingsMaker Guild | Imperial 1851 Circle | Maths of the Day
 
 ⚡ I love math, data science and books
 
