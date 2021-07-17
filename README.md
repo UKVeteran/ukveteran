@@ -1,4 +1,4 @@
-### Hi there 👋 I am Johar. 
+### Hi there 👋 I am Johar (Kaggle Exper). 
 
 ⚡ I love math, data science and books
 
