@@ -17,10 +17,6 @@ I completed my PhD in String Theory at the University of Liverpool in 2017. I ha
 
 ![](https://komarev.com/ghpvc/?username=ukveteran)
 
-<img src = "https://www.codewars.com/users/ukveteran/badges/small" />
-
-
-
 <!--
 **UKVeteran/ukveteran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
