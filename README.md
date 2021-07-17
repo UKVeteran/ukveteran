@@ -17,6 +17,8 @@ I completed my PhD in String Theory at the University of Liverpool in 2017. I ha
 
 ![](https://komarev.com/ghpvc/?username=ukveteran)
 
+<img src = "https://www.codewars.com/users/RedaBELHAJ/badges/small" />
+
 
 
 <!--
