@@ -17,6 +17,10 @@ I completed my PhD in String Theory at the University of Liverpool in 2017. I ha
 
 ![](https://komarev.com/ghpvc/?username=ukveteran)
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajauntor&" alt="ajauntor" /></p>
+
+
 <!--
 **UKVeteran/ukveteran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
