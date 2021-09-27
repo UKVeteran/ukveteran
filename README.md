@@ -6,6 +6,8 @@ Connect with me on: <br>
 🏢 <a href="https://www.linkedin.com/in/johar-m-ashfaque-phd-amima-minstp-a924a469/">LinkedIn</a> <br>
 🏢 <a href="https://twitter.com/jau1990/">Twitter</a><br>
 🏢 <a href="https://joharmashfaque.com/">My Blog</a><br>
+🏢 <a href="https://stackoverflow.com/users/17018585/johar-m-ashfaque">Stackoverflow</a><br>
+ 
 
 I completed my PhD in String Theory at the University of Liverpool in 2017. I have worked on various aspects of free-fermionic heterotic string formulation from analyzing the phenomenological properties of the string-derived models to more formal mathematical results.
 
