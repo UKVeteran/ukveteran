@@ -12,7 +12,7 @@ Connect with me on: <br>
 I completed my PhD in String Theory at the University of Liverpool in 2017. I have worked on various aspects of free-fermionic heterotic string formulation from analyzing the phenomenological properties of the string-derived models to more formal mathematical results.
 
 ![alt text](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)  ![alt text](https://img.shields.io/badge/python-0000CD?style=for-the-badge&logo=python&logoColor=white)  ![alt text](https://img.shields.io/badge/R-0000CD?style=for-the-badge&logo=R&logoColor=white)   ![alt text]
-(https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+
 
 
 ![](https://github-readme-stats.vercel.app/api?username=ukveteran&show_icons=true&theme=radical)
