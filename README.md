@@ -28,6 +28,12 @@ I completed my PhD in String Theory at the University of Liverpool in 2017. I ha
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ukveteran&" alt="ajauntor" /></p>
 
 
+</p>
+
+<hr>
+
 <p align="center">
   <img src="https://github.com/ukveteran/ukveteran/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+
