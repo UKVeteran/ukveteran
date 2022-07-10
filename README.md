@@ -29,7 +29,7 @@ I completed my PhD in String Theory at the University of Liverpool in 2017. I ha
 
 
 
-<p align="left"> <a href="https://twitter.com/jau1990" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="jau1990" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jau1990" target="blank"><img src="https://img.shields.io/twitter/follow/jau1990?logo=twitter&style=for-the-badge" alt="jau1990" /></a> </p>
 
 </p>
 
