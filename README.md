@@ -33,6 +33,7 @@ I completed my PhD in String Theory at the University of Liverpool in 2017. I ha
 <hr>
 
 <p align="center">
-![snake gif](https://github.com/ukveteran/ukveteran/blob/output/github-contribution-grid-snake.gif)</p>
+  <img src="https://github.com/ukveteran/ukveteran/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 
