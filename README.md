@@ -17,10 +17,7 @@ I completed my PhD in String Theory at the University of Liverpool in 2017. I ha
 ![alt text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![alt text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 
-
 [![GitHub followers](https://img.shields.io/github/followers/UKVeteran.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/UKVeteran?tab=followers)
-
-[![GitHub forks](https://img.shields.io/github/forks/UKVeteran/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/UKVeteran/StrapDown.js/network/)
 
 ![](https://github-readme-stats.vercel.app/api?username=ukveteran&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukveteran&&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
