@@ -1,5 +1,9 @@
 ### Hi there 👋 I am Johar (Kaggle Expert). 
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Scientist;Theoretical%20Physicist &font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
 ⚡ I love math, data science and books
 
 Connect with me on: <br>
