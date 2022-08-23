@@ -19,6 +19,11 @@ I completed my PhD in String Theory at the University of Liverpool in 2017. I ha
 ## Github's stats
 [![Meredith's github activity graph](https://activity-graph.herokuapp.com/graph?username=ukveteran&theme=monokai&timezone=timezone['America/Honolulu'])](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <img src="https://github.com/ukveteran/ukveteran/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+
 [![GitHub followers](https://img.shields.io/github/followers/UKVeteran.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/UKVeteran?tab=followers)
 
 ![alt text](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -45,8 +50,3 @@ I completed my PhD in String Theory at the University of Liverpool in 2017. I ha
 </p>
 
 <hr>
-
-<p align="center">
-  <img src="https://github.com/ukveteran/ukveteran/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
