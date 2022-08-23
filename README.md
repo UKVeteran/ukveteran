@@ -11,6 +11,9 @@ Connect with me on: <br>
 
 I completed my PhD in String Theory at the University of Liverpool in 2017. I have worked on various aspects of free-fermionic heterotic string formulation from analyzing the phenomenological properties of the string-derived models to more formal mathematical results.
 
+## Github's stats
+[![Meredith's github activity graph](https://activity-graph.herokuapp.com/graph?username=ukveteran&theme=monokai&timezone=timezone['America/Honolulu'])](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![GitHub followers](https://img.shields.io/github/followers/UKVeteran.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/UKVeteran?tab=followers)
 
 ![alt text](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white) 
