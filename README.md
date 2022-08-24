@@ -43,6 +43,10 @@ I completed my PhD in String Theory at the University of Liverpool in 2017. I ha
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ukveteran&" alt="ajauntor" /></p>
 
+<p align="left">
+  <a href="https://github.com/m3redithw?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+
 
 
 <p align="left"> <a href="https://twitter.com/jau1990" target="blank"><img src="https://img.shields.io/twitter/follow/jau1990?logo=twitter&style=for-the-badge" alt="jau1990" /></a> </p>
