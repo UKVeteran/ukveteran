@@ -6,6 +6,8 @@
 
 ⚡ I love math, data science and books
 
+![](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
+
 Connect with me on: <br>
 🏢 <a href="https://twitter.com/jau1990/">Twitter</a><br>
 🏢 <a href="https://joharmashfaque.com/">My Blog</a><br>
