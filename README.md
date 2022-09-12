@@ -6,7 +6,7 @@
 
 ⚡ I love math, data science and books
 
-![scale=0.75](https://github.com/UKVeteran/ukveteran/blob/main/octocat-25.png)
+![](https://github.com/UKVeteran/ukveteran/blob/main/octocat-25.png width="100" height="100")
 
 Connect with me on: <br>
 🏢 <a href="https://twitter.com/jau1990/">Twitter</a><br>
