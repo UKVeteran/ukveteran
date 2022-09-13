@@ -8,7 +8,7 @@
 ⚡ I love math, data science and books
 
 
-![](https://github.com/UKVeteran/ukveteran/blob/main/octocat-25.png)
+![](https://github.com/UKVeteran/ukveteran/blob/main/6t73sf.gif)
 
 
 Connect with me on: <br>
