@@ -1,12 +1,15 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Johar (Kaggle Expert). 
 
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AAT%20Studier;Data%20Scientist;Mathematical%20Physicist&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 ⚡ I love math, data science and books
 
+
 ![](https://github.com/UKVeteran/ukveteran/blob/main/octocat-25.png)
+
 
 Connect with me on: <br>
 🏢 <a href="https://twitter.com/jau1990/">Twitter</a><br>
