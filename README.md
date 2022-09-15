@@ -16,9 +16,7 @@
 Connect with me on: <br>
 
 🏢 <a href="https://twitter.com/jau1990/">Twitter</a><br>
-
 🏢 <a href="https://joharmashfaque.com/">My Blog</a><br>
-
 🏢 <a href="https://stackoverflow.com/users/17018585/johar-m-ashfaque">Stackoverflow</a><br>
  
 <h3 align="left">Reach me at   <a href='jmashfaque@gmail.com' target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail&labelColor=white" alt="johar-ashfaque" /></a></h3>
