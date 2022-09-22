@@ -5,9 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AAT%20Studier;AATQB;Data%20Scientist;Mathematical%20Physicist&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-
 ⚡ I love math, data science and books
-
 
 ![](https://github.com/UKVeteran/ukveteran/blob/main/octocats.gif)
 
@@ -29,15 +27,12 @@ I can also be found at:
 
 <a href="https://www.instagram.com/jau1990/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&labelColor=black" alt="jash" /></a>
 
-
-
 ## Github's stats
 [![Johar's github activity graph](https://activity-graph.herokuapp.com/graph?username=ukveteran&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github.com/ukveteran/ukveteran/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-
 
 [![GitHub followers](https://img.shields.io/github/followers/UKVeteran.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/UKVeteran?tab=followers)
 
@@ -54,7 +49,6 @@ I can also be found at:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukveteran&&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=ukveteran)
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ukveteran&" alt="ajauntor" /></p>
 
