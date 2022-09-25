@@ -34,7 +34,7 @@ I can also be found at:
   <img src="https://github.com/ukveteran/ukveteran/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/UKVeteran.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/UKVeteran?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/UKVeteran.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/UKVeteran?tab=follower)
 
 ![alt text](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white) 
 ![alt text](https://img.shields.io/badge/python-0000CD?style=for-the-badge&logo=python&logoColor=white)  ![alt text](https://img.shields.io/badge/R-0000CD?style=for-the-badge&logo=R&logoColor=white)  
