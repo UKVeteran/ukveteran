@@ -55,13 +55,12 @@ I can also be found at:
 <p align="left">
   <a href="https://github.com/UKVeteran?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
-  
-
-
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ukveteran&theme=github)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ukveteran)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
