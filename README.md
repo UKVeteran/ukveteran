@@ -28,6 +28,9 @@ I can also be found at:
 
 <a href="https://www.instagram.com/jau1990/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&labelColor=black" alt="jash" /></a>
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
 ## Github's stats
 [![Johar's github activity graph](https://activity-graph.herokuapp.com/graph?username=ukveteran&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
