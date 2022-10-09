@@ -83,7 +83,7 @@ I can also be found at:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UKVeteran&repo=ukveteran)](https://github.com/UKVeteran/ukveteran)
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UKVeteran&repo=new-to-kotlin)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UKVeteran&repo=new-to-kotlin)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ukveteran&theme=github)
 
