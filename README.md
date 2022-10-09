@@ -81,7 +81,7 @@ I can also be found at:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UKVeteran&repo=github-readme-stats)](https://github.com/UKVeteran/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UKVeteran&repo=ukveteran)](https://github.com/UKVeteran/ukveteran)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ukveteran&theme=github)
 
