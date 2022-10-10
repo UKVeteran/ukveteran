@@ -69,7 +69,7 @@ I can also be found at:
   
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UKVeteran&repo=new-to-kotlin)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UKVeteran&repo=lts-go)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UKVeteran&repo=lets-go)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ukveteran&theme=github)
 
