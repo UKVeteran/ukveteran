@@ -34,20 +34,12 @@ I can also be found at:
 
 <a href="https://www.instagram.com/jau1990/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&labelColor=black" alt="jash" /></a>
 
-
-
-
-
-
-
 ## Github's Stats
 [![Johar's github activity graph](https://activity-graph.herokuapp.com/graph?username=ukveteran&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github.com/ukveteran/ukveteran/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-
-
 
 ![alt text](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white) 
 ![alt text](https://img.shields.io/badge/python-0000CD?style=for-the-badge&logo=python&logoColor=white)  ![alt text](https://img.shields.io/badge/R-0000CD?style=for-the-badge&logo=R&logoColor=white)  
@@ -64,18 +56,12 @@ I can also be found at:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukveteran&&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ![](https://komarev.com/ghpvc/?username=ukveteran)
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ukveteran&" alt="ajauntor" /></p>
 
-
-
 <p align="left">
   <a href="https://github.com/UKVeteran?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-
-
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
