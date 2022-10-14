@@ -37,9 +37,11 @@ I can also be found at:
 ## Github's Stats
 [![Johar's github activity graph](https://activity-graph.herokuapp.com/graph?username=ukveteran&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
 <p align="center">
   <img src="https://github.com/ukveteran/ukveteran/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
 
 ![alt text](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white) 
 ![alt text](https://img.shields.io/badge/python-0000CD?style=for-the-badge&logo=python&logoColor=white)  ![alt text](https://img.shields.io/badge/R-0000CD?style=for-the-badge&logo=R&logoColor=white)  
