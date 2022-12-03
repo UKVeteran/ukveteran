@@ -7,7 +7,9 @@
 </p>
 
 
+
 ⚡ I love math, data science and books
+
 
 
 ![](https://github.com/UKVeteran/ukveteran/blob/main/octocats.gif)
