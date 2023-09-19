@@ -55,6 +55,8 @@ I can also be found at:
 
 ![](https://komarev.com/ghpvc/?username=ukveteran)
 
+## Day Streak & Other Statistics
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ukveteran&" alt="ajauntor" /></p>
 
 <p align="left">
