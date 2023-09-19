@@ -32,11 +32,12 @@ I can also be found at:
   <img src="https://github.com/ukveteran/ukveteran/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-# Link To All Repos
+## Link To Stargazing Repos
 <p align="left">
   <a href="https://github.com/UKVeteran?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 
+## 📖 What I have worked on
 ![alt text](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white) 
 ![alt text](https://img.shields.io/badge/python-0000CD?style=for-the-badge&logo=python&logoColor=white)  ![alt text](https://img.shields.io/badge/R-0000CD?style=for-the-badge&logo=R&logoColor=white)  
 ![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
