@@ -29,6 +29,10 @@ I can also be found at:
 <a href="https://www.instagram.com/jau1990/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&labelColor=black" alt="jash" /></a>
 
 
+# GitHub Stats
+
+
+
 
 <p align="center">
   <img src="https://github.com/ukveteran/ukveteran/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
