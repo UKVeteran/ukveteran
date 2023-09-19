@@ -15,8 +15,6 @@ Connect with me on: <br>
  
 <h3 align="left">Reach me at   <a href='jmashfaque@gmail.com' target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail&labelColor=white" alt="johar-ashfaque" /></a></h3>
 
-I completed my PhD in String Theory at the University of Liverpool in 2017. I have worked on various aspects of free-fermionic heterotic string formulation from analyzing the phenomenological properties of the string-derived models to more formal mathematical results.
-
 I can also be found at:
 
 <h2 align="left">
