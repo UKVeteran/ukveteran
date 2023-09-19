@@ -15,8 +15,10 @@ Connect with me on: <br>
 I can also be found at:
 
 <h2 align="left">
+
   
  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
   </h2>
 
