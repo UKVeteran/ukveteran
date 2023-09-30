@@ -7,6 +7,13 @@
 
 ⚡ I love math, data science and books
 
+
+![1_1FI6WNm57P0r77gXX5mxMQ](https://github.com/UKVeteran/ukveteran/assets/39216339/8795eed0-18e1-4437-bab6-510cb3066dc8)
+
+
+
+
+
 Connect with me on: <br>
 
 🏢 <a href="https://twitter.com/jau1990/">Twitter</a><br>
