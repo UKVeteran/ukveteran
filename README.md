@@ -29,7 +29,7 @@ I can also be found at:
 
   </h2>
 
-<a href="https://public.tableau.com/app/profile/johar.ashfaque" target="blank"><img align="center" src="https://img.shields.io/badge/Tableau-lightblue?style=flat&logo=tableau&labelColor=black" alt="jash" /></a>
+<a href="https://public.tableau.com/app/profile/jmashfaque/" target="blank"><img align="center" src="https://img.shields.io/badge/Tableau-lightblue?style=flat&logo=tableau&labelColor=black" alt="jash" /></a>
 
 <a href="https://www.linkedin.com/in/dr-johar-m-ashfaque-minstp-aatqb-%F0%9F%93%8A%F0%9F%A7%AE%F0%9F%93%9A-a924a469/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black" alt="jash" /></a>
 
